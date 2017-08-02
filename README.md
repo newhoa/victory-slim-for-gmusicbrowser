@@ -8,3 +8,5 @@ To install (close gmusicbrowser first)
 2. Layout - Add VictorySlim.layout to your folder /home/USERNAME/.config/gmusicbrowser/layouts/
 
 3. Open gmusicbrowser and in Settings under the Layout tab first select Icons > victory-slim-icons. After selecting the icons, while still in the Settings > Layout tab, select for "Player window layout" Victory Slim.
+
+![Preview](https://i.imgur.com/Felm78k.png "Preview")
